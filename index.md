@@ -8,9 +8,8 @@ Welcome to my page on github. I am a lifelong learner with over 20 years of expe
 
 
 Here's my LinkedIn and it is not that jazzy ;)
-```
+
 [My sober profile](https://uk.linkedin.com/in/kkaspate)
-```
 
 
 Alright, so, one fine day I decided to go through Masters Program for **AI & ML** and here I am, with the list of my _academic_ projects. To tell you the truth I cannot wait to work on my masters thesis and the industry projects once the program is finished in December 2025. Be back here then and will have my masters dissertation listed here. 
