@@ -6,7 +6,7 @@ Hello there!
 
 Welcome to my page on github. I am a lifelong learner with over 20 years of experience in transforming enterprise business solutions using various Business Orchastration and Automation Technologies. I am at my best when I am a learning something new or imagining what's next! I love dreaming ways technology can solve just about any problem - whether it's helping a top UK bank enhance fraud detection or figuering out the perfect weekend adventure with my 5-year old. 
 
-Here's my [LinkedIn](https://uk.linkedin.com/in/kkaspate) and it is not that jazzy ;)
+Here's my <a href='https://uk.linkedin.com/in/kkaspate'>[LinkedIn]</a> and it is not that jazzy ;)
 
 
 Alright, so, one fine day I decided to go through Masters Program for **AI & ML** and here I am, with the list of my _academic_ projects. To tell you the truth I cannot wait to work on my masters thesis and the industry projects once the program is finished in December 2025. Be back here then and will have my masters dissertation listed here. 
