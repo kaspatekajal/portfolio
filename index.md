@@ -6,15 +6,27 @@ Hello there!
 
 Welcome to my page on github. I am a lifelong learner with over 20 years of experience in transforming enterprise business solutions using various Business Orchastration and Automation Technologies. I am at my best when I am a learning something new or imagining what's next! I love dreaming ways technology can solve just about any problem - whether it's helping a top UK bank enhance fraud detection or figuering out the perfect weekend adventure with my 5-year old. 
 
+```
 Here's my LinkedIn and it is not that jazzy ;)
 
-[My sober profile]()
+[My sober profile](https://uk.linkedin.com/in/kkaspate)
+```
 
 Alright, so, one fine day I decided to go through Masters Program for **AI & ML** and here I am, with the list of my _academic_ projects. To tell you the truth I cannot wait to work on my masters thesis and the industry projects once the program is finished in December 2025. Be back here then and will have my masters dissertation listed here. 
 
 ## Projects (Feb 2024 - Mar 2025) 
 
 You will find most recent projects at the top - newest first!
+
+### Search System for Fashion Company’s Product Catalogue 
+*  Developed a search system for a fashion company's product catalogue, enabling users to search for products and receive responses in natural language
+*  Used frameworks like LangChain to build a generative search system using Retrieval-Augmented Generation (RAG)
+
+### Q&A Help System for Insurance Documents using RAG
+*  Implemented Retrieval-Augmented Generation (RAG) with OpenAI
+*  Created an Embedding Layer using the vector database ChromaDB
+*  Developed a Search Layer with cache and re-ranker functionalities
+*  Built a Generative Layer to produce final answers
 
 ### Custom ChatBot (HolidayClub Advisor for Parent) using LLM
 *  Conceptualized and developed a custom chatbot project
